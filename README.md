@@ -17,7 +17,7 @@
 
 # 🚀 Projects  
 🔹 **Fake Medicine Detection System** – Barcode/image scan verification system with PostgreSQL + React.  
-🔹 **Full Shop Manager** – Inventory & sales management system for shops.  
+🔹 **Full Shop Manager** – Inventory & sales management system for multipal shops.  
 🔹 **BeatAura** – A Spotify-like music streaming app using Audius/Jamendo APIs + Node.js.  
 🔹 **AI-Powered Resume Analyzer** – Analyzes resumes and provides insights using AI.  
 🔹 **Crowdsourced Disaster Relief Platform** – Connects volunteers and victims in disaster situations.  
@@ -25,10 +25,10 @@
 ---
 
 # 📊 GitHub Stats  
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvboghani&show_icons=true&theme=tokyonight)  
+<!-- ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvboghani&show_icons=true&theme=tokyonight)   -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvboghani&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvboghani&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhruvboghani&theme=tokyonight&no-frame=true&row=1&column=6)  
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhruvboghani&theme=tokyonight&no-frame=true&row=1&column=6)   -->
 
 ---
 

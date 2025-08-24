@@ -34,7 +34,7 @@
 
 # 🌐 Connect With Me  
 📩 Email: **dhruvboghani624@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/dhruvboghani](https://linkedin.com/in/dhruvboghani)  
+💼 LinkedIn: [Linkdin](www.linkedin.com/in/dhruv-boghani-b795a133a)  
 
 ---
 
